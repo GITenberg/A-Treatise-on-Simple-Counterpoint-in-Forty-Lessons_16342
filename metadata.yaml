@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6640'
     url: http://www.gutenberg.org/2009/agents/6640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16342#A-Treatise-on-Simple-Counterpoint-in-Forty-Lessons
 gutenberg_bookshelf: Music
 gutenberg_issued: '2005-07-21'
 gutenberg_type: Text
