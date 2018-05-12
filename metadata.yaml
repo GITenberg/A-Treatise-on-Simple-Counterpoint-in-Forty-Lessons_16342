@@ -1,0 +1,28 @@
+_repo: A-Treatise-on-Simple-Counterpoint-in-Forty-Lessons_16342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lehmann, Friedrich J. (Friedrich Johann)
+    alias: Lehmann, F. J. (Friedrich Johann)
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '6640'
+    url: http://www.gutenberg.org/2009/agents/6640
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Counterpoint'
+title: A Treatise on Simple Counterpoint in Forty Lessons
+url: http://www.gutenberg.org/ebooks/16342
